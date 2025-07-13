@@ -61,6 +61,11 @@ GazoHenkan/
 - ⏳ **ログ機能**: 変換履歴のファイルへの保存
 - ⚠️ **pillow-avif-plugin依存**: AVIFサポートには`pip install pillow-avif-plugin`が必要
 
+## GitHubリポジトリ
+- **URL**: https://github.com/tatsuyamaru/GazoHenkan.git
+- **Issues**: https://github.com/tatsuyamaru/GazoHenkan/issues
+- **Releases**: https://github.com/tatsuyamaru/GazoHenkan/releases
+
 ## アプリケーションの実行
 ```bash
 # 開発モードで実行
