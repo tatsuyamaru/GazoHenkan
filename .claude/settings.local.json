@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pyinstaller:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(git init:*)",
+      "Bash(git --version)",
+      "Bash(cmd /c \"git init\")"
+    ],
+    "deny": []
+  }
+}
